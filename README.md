@@ -12,6 +12,18 @@
 x install kanha
 ```
 
+## Code insight
+
+Total: **1,051** lines of code across **23** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 600 | 8 | 103 | 17 |
+| Json | 331 | 0 | 1 | 2 |
+| Nix | 80 | 5 | 4 | 1 |
+| Toml | 40 | 1 | 7 | 1 |
+| Markdown | 0 | 233 | 105 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/pwnwriter/kanha>
@@ -23,6 +35,25 @@ x install kanha
 - **Latest**: `v-v0.1.2` (2023-10-17)
 - **Last commit**: 2024-11-13
 - **Assets in release**: 22
+
+## Popularity
+
+- **Stars**: 325 · **Forks**: 18 · **Open issues**: 8 · **Contributors**: 3
+
+## Totals (cumulative)
+
+- **Releases**: 3 · **Merged PRs**: 16 · **Open PRs**: 6 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 136
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 6 | 0 | 0 | 3 |
 
 ## Release assets
 
@@ -51,33 +82,13 @@ x install kanha
 | [kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz) | 2.8 MiB | `native/linux/x64/musl` |
 | [kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz.sha512) | 177 B | `native/linux/x64/musl` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 325 · **Forks**: 18 · **Open issues**: 8 · **Contributors**: 3
+Reported by **7** distros on [repology.org](https://repology.org/project/kanha). **5** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 3 · **Merged PRs**: 16 · **Open PRs**: 6 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 136
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **1,051** lines of code across **23** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 600 | 8 | 103 | 17 |
-| Json | 331 | 0 | 1 | 2 |
-| Nix | 80 | 5 | 4 | 1 |
-| Toml | 40 | 1 | 7 | 1 |
-| Markdown | 0 | 233 | 105 | 2 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.1.2` | ✅ latest |
 
 ## Improve this data
 
@@ -88,4 +99,4 @@ Install metadata for kanha lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:49:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:14:34Z._
