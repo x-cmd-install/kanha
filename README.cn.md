@@ -4,7 +4,7 @@
 
 🦚  A web-app pentesting suite written in rust .
 
-![kanha](https://repo.x-cmd.io/kanha.svg)
+![kanha](https://repo.x-cmd.io/kanha.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,33 @@ x install kanha
 - **最新版本**: `v-v0.1.2` (2023-10-17)
 - **最近提交**: 2024-11-13
 - **Release 含资产**: 22 个
-- **发布时间**: 2023-10-17T16:42:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [kanha--v0.1.2-aarch64-apple-darwin.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-aarch64-apple-darwin.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
+| [kanha--v0.1.2-aarch64-apple-darwin.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-aarch64-apple-darwin.tar.gz.sha512) | 172 B | `native/darwin/arm64` |
+| [kanha--v0.1.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-aarch64-unknown-linux-gnu.tar.gz) | 2.5 MiB | `native/linux/arm64/glibc` |
+| [kanha--v0.1.2-aarch64-unknown-linux-gnu.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-aarch64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/arm64/glibc` |
+| [kanha--v0.1.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-aarch64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/arm64/musl` |
+| [kanha--v0.1.2-aarch64-unknown-linux-musl.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-aarch64-unknown-linux-musl.tar.gz.sha512) | 178 B | `native/linux/arm64/musl` |
+| [kanha--v0.1.2-armv5te-unknown-linux-gnueabi.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-armv5te-unknown-linux-gnueabi.tar.gz) | 2.5 MiB | `native/linux/arm/glibc` |
+| [kanha--v0.1.2-armv5te-unknown-linux-gnueabi.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-armv5te-unknown-linux-gnueabi.tar.gz.sha512) | 181 B | `native/linux/arm/glibc` |
+| [kanha--v0.1.2-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-armv7-unknown-linux-gnueabihf.tar.gz) | 2.5 MiB | `native/linux/arm/glibc` |
+| [kanha--v0.1.2-armv7-unknown-linux-gnueabihf.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-armv7-unknown-linux-gnueabihf.tar.gz.sha512) | 181 B | `native/linux/arm/glibc` |
+| [kanha--v0.1.2-i686-pc-windows-msvc.zip](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-i686-pc-windows-msvc.zip) | 1.7 MiB | `native/win/x64` |
+| [kanha--v0.1.2-i686-unknown-linux-gnu.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-i686-unknown-linux-gnu.tar.gz) | 2.7 MiB | `native/linux/x86/glibc` |
+| [kanha--v0.1.2-i686-unknown-linux-gnu.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-i686-unknown-linux-gnu.tar.gz.sha512) | 174 B | `native/linux/x86/glibc` |
+| [kanha--v0.1.2-i686-unknown-linux-musl.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-i686-unknown-linux-musl.tar.gz) | 2.9 MiB | `native/linux/x86/musl` |
+| [kanha--v0.1.2-i686-unknown-linux-musl.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-i686-unknown-linux-musl.tar.gz.sha512) | 175 B | `native/linux/x86/musl` |
+| [kanha--v0.1.2-x86_64-apple-darwin.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-apple-darwin.tar.gz) | 2.1 MiB | `native/darwin/x64` |
+| [kanha--v0.1.2-x86_64-apple-darwin.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-apple-darwin.tar.gz.sha512) | 171 B | `native/darwin/x64` |
+| [kanha--v0.1.2-x86_64-pc-windows-msvc.zip](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-pc-windows-msvc.zip) | 1.8 MiB | `native/win/x64` |
+| [kanha--v0.1.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/x64/glibc` |
+| [kanha--v0.1.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 176 B | `native/linux/x64/glibc` |
+| [kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz) | 2.8 MiB | `native/linux/x64/musl` |
+| [kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz.sha512](https://github.com/pwnwriter/kanha/releases/download/v-v0.1.2/kanha--v0.1.2-x86_64-unknown-linux-musl.tar.gz.sha512) | 177 B | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -62,4 +88,4 @@ kanha 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:23:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:49:31Z._
