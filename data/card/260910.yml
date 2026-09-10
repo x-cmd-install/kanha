@@ -7,7 +7,7 @@ about:
   latestVersion: "v-v0.1.2"
   latestRelease: "v-v0.1.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T02:23:04Z
+  collectedAt: 2026-09-10T15:49:21Z
 timeline:
   created: 2023-08-26
   lastCommit: 2024-11-13
@@ -85,7 +85,7 @@ total:
   commit: 136
 ---
 path: /home/runner/.x-repo/github.com/pwnwriter/kanha
-collectedAt: 2026-09-10T02:23:06Z
+collectedAt: 2026-09-10T15:49:22Z
 loc:
   Rust:
     code: 600
