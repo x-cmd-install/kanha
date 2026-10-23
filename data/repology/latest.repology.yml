@@ -1,0 +1,79 @@
+- repo: aur
+  srcname: kanha-bin
+  binname: kanha-bin
+  visiblename: kanha-bin
+  version: 0.1.1
+  origversion: 0.1.1-1
+  status: outdated
+  summary: "\U0001F99A A web-app pentesting suite written in Rust."
+  maintainers:
+    - pwnwriter@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: kanha-git
+  binname: kanha-git
+  visiblename: kanha-git
+  version: .v0.1.2.r2.g07e7b66
+  origversion: .v0.1.2.r2.g07e7b66-1
+  status: rolling
+  summary: A web-app pentesting suite written in rust
+  maintainers:
+    - pwnwriter@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: kanha
+  visiblename: kanha
+  version: 0.1.2
+  origversion: null
+  status: newest
+  summary: Web-app pentesting suite written in rust
+  maintainers:
+    - hey@pwnwriter.xyz
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: kanha
+  visiblename: kanha
+  version: 0.1.2
+  origversion: null
+  status: newest
+  summary: Web-app pentesting suite written in rust
+  maintainers:
+    - hi@pwnwriter.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: kanha
+  visiblename: kanha
+  version: 0.1.2
+  origversion: null
+  status: newest
+  summary: Web-app pentesting suite written in rust
+  maintainers:
+    - hi@pwnwriter.me
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: kanha
+  visiblename: kanha
+  version: 0.1.2
+  origversion: null
+  status: newest
+  summary: Web-app pentesting suite written in rust
+  maintainers:
+    - hi@pwnwriter.me
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: kanha
+  visiblename: kanha
+  version: 0.1.2
+  origversion: null
+  status: newest
+  summary: Web-app pentesting suite written in rust
+  maintainers:
+    - hi@pwnwriter.me
+  licenses:
+    - MIT
